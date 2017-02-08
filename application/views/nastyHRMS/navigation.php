@@ -97,8 +97,8 @@
           </a>
           <ul class="treeview-menu">
             <!--<li><a href="pages/examples/invoice.html"><i class="fa fa-circle-o"></i> Invoice</a></li>-->
-            <li><a href="pages/examples/profile.html"><i class="fa  fa-chevron-right"></i>Add New</a></li>
-            <li><a href="pages/examples/login.html"><i class="fa  fa-chevron-right"></i>List Employee</a></li>
+            <li><a href="<?=site_url('dashboard/page/a3')?>"><i class="fa  fa-chevron-right"></i>Add New</a></li>
+            <li><a href="<?=site_url('dashboard/page/a4')?>"><i class="fa  fa-chevron-right"></i>List Employee</a></li>
            <!--  <li><a href="pages/examples/register.html"><i class="fa fa-circle-o"></i> Register</a></li>
             <li><a href="pages/examples/lockscreen.html"><i class="fa fa-circle-o"></i> Lockscreen</a></li> -->
             <!--<li><a href="pages/examples/404.html"><i class="fa fa-circle-o"></i> 404 Error</a></li>
@@ -137,9 +137,8 @@
           </a>
           <ul class="treeview-menu">
             <!--<li><a href="pages/examples/invoice.html"><i class="fa fa-circle-o"></i> Invoice</a></li>-->
-            <li><a href="pages/examples/profile.html"><i class="fa  fa-chevron-right"></i>Add New</a></li>
-         
-            <li><a href="pages/examples/login.html"><i class="fa  fa-chevron-right"></i>Overtime List Claim</a></li>
+            <li><a href="<?=site_url('dashboard/page/a7')?>"><i class="fa  fa-chevron-right"></i>Add New</a></li>
+            <li><a href="<?=site_url('dashboard/page/a8')?>"><i class="fa  fa-chevron-right"></i>Overtime List Claim</a></li>
            <!--  <li><a href="pages/examples/register.html"><i class="fa fa-circle-o"></i> Register</a></li>
             <li><a href="pages/examples/lockscreen.html"><i class="fa fa-circle-o"></i> Lockscreen</a></li> -->
             <!--<li><a href="pages/examples/404.html"><i class="fa fa-circle-o"></i> 404 Error</a></li>
@@ -179,8 +178,8 @@
           </a>
           <ul class="treeview-menu">
             <!--<li><a href="pages/examples/invoice.html"><i class="fa fa-circle-o"></i> Invoice</a></li>-->
-            <li><a href="pages/examples/profile.html"><i class="fa  fa-chevron-right"></i>Request</a></li>
-            <li><a href="pages/examples/login.html"><i class="fa  fa-chevron-right"></i>Leave Requesst</a></li>
+            <li><a href="<?=site_url('dashboard/page/a11')?>"><i class="fa  fa-chevron-right"></i>Request</a></li>
+            <li><a href="<?=site_url('dashboard/page/a12')?>"><i class="fa  fa-chevron-right"></i>Leave Requesst</a></li>
            <!--  <li><a href="pages/examples/register.html"><i class="fa fa-circle-o"></i> Register</a></li>
             <li><a href="pages/examples/lockscreen.html"><i class="fa fa-circle-o"></i> Lockscreen</a></li> -->
             <!--<li><a href="pages/examples/404.html"><i class="fa fa-circle-o"></i> 404 Error</a></li>
